@@ -5,14 +5,17 @@
     
 
     const firebaseConfig = {
-      apiKey: "AIzaSyDS7IHXKdKhDQW-4H_ndq2xaA37OhIK6lo",
-      authDomain: "tc-page-umia.firebaseapp.com",
-      projectId: "tc-page-umia",
-      storageBucket: "tc-page-umia.appspot.com",
-      messagingSenderId: "477755579311",
-      appId: "1:477755579311:web:db798633ba8149b947ed5a",
-      measurementId: "G-W0HW8YEHFD",
+      apiKey: "AIzaSyCEI-rVAAJwzMklQbhB3WAWWpatjsXOkHo",
+      authDomain: "preciosinversol.firebaseapp.com",
+      projectId: "preciosinversol",
+      storageBucket: "preciosinversol.appspot.com",
+      messagingSenderId: "1045771161708",
+      appId: "1:1045771161708:web:b31f49735fb99877440849",
+      measurementId: "G-KC8RZN18X6",
     };
+
+
+
 
     // Initialize Firebase
     export const app = initializeApp(firebaseConfig);
