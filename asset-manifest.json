@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Precios/static/css/main.f7a76dbf.css",
+    "main.js": "/Precios/static/js/main.d9744f8a.js",
+    "static/media/loading.gif": "/Precios/static/media/loading.91ce0601db2490106ce1.gif",
+    "static/media/promo.png": "/Precios/static/media/promo.f79497a1ce035e078197.png",
+    "static/media/google-logo.svg": "/Precios/static/media/google-logo.dcbc94051c15aba5972efc068e2cec23.svg",
+    "static/media/newFondo.webp": "/Precios/static/media/newFondo.814295810707d6cfdc95.webp",
+    "static/media/netflix.svg": "/Precios/static/media/netflix.761423e16dd39b29c816916ff0417b67.svg",
+    "static/media/logo.svg": "/Precios/static/media/logo.6074ffbaa74e8bad189bc02a5e3483aa.svg",
+    "static/media/android.svg": "/Precios/static/media/android.0cfd7fe2594587d29723d6aa0cae8dc9.svg",
+    "index.html": "/Precios/index.html",
+    "static/media/cellphone.svg": "/Precios/static/media/cellphone.7f72ca966b856f9dea40d427cc0ba122.svg",
+    "static/media/ram.svg": "/Precios/static/media/ram.6b47545257ea2a57bf316a7437a296d5.svg",
+    "static/media/procesador.svg": "/Precios/static/media/procesador.ec08038d69b7840f7c550435f44804f4.svg",
+    "static/media/memoriaInterna.svg": "/Precios/static/media/memoriaInterna.c6ee0117db92b4f226d05cc9f57b7675.svg",
+    "static/media/memoriaExpandible.svg": "/Precios/static/media/memoriaExpandible.69b42441449692169205c815950ec31d.svg",
+    "static/media/file-return.svg": "/Precios/static/media/file-return.2c5197dd65e6a5a5d144beac7a4c5923.svg",
+    "static/media/x-circle.svg": "/Precios/static/media/x-circle.3bcfd9adc381b7775fc345c02801fe04.svg",
+    "static/media/size.svg": "/Precios/static/media/size.420ca7954706d0319d9b5ae3aa4d6b00.svg",
+    "static/media/camara.svg": "/Precios/static/media/camara.46c52ec984dff95a2479ec561b84231e.svg",
+    "static/media/file-plus.svg": "/Precios/static/media/file-plus.d69f74b5fc67a0579ef0474558e02ac2.svg",
+    "static/media/bateria.svg": "/Precios/static/media/bateria.257841ddd532689e5cdd935895c8e85b.svg",
+    "static/media/peso.svg": "/Precios/static/media/peso.dfbe9e0f72f7f2c0e0e470696e831107.svg",
+    "main.f7a76dbf.css.map": "/Precios/static/css/main.f7a76dbf.css.map",
+    "main.d9744f8a.js.map": "/Precios/static/js/main.d9744f8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7a76dbf.css",
+    "static/js/main.d9744f8a.js"
+  ]
+}
